@@ -1,0 +1,4 @@
+bank -blue
+merchant -gree
+user - purple
+mno -red
